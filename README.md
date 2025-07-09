@@ -16,7 +16,7 @@ This is a simple Todo application built using Flutter, a framework for building 
 Ensure you have Flutter and Dart installed on your system. You can find installation instructions on the official Flutter website: [https://docs.flutter.dev/get-started/install](https://docs.flutter.dev/get-started/install)
 
 ```bash
-$ git clone https://github.com/jaygaha/flutter-first-app.git
+$ git clone https://github.com/amoghagain/TODOO.git
 ```
 
 Run the app:
